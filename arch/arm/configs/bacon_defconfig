@@ -374,6 +374,11 @@ CONFIG_MACH_OPPO=y
 CONFIG_MACH_OPPO_MSM8974=y
 
 #
+# ColorOS camera
+#
+CONFIG_MACH_MSM8974_14001=y
+
+#
 # Oppo board selection
 #
 # CONFIG_MACH_FIND7 is not set
