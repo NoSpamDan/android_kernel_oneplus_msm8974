@@ -259,6 +259,7 @@ struct synaptics_rmi4_data {
 	atomic_t camera_enable;
 	atomic_t music_enable;
 	atomic_t flashlight_enable;
+	atomic_t silent_vib_sound_enable;
 	atomic_t keypad_enable;
 	atomic_t irq_enabled;
 	atomic_t sensor_awake;
